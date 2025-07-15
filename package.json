@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/genie-env",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Task presets for configuring build environments.",
   "keywords": [],
   "homepage": "https://github.com/dashkite/genie-env#readme",
